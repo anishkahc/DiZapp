@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "29064521587",
+    "firebase_url": "https://dizapp-33990.firebaseio.com",
+    "project_id": "dizapp-33990",
+    "storage_bucket": "dizapp-33990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29064521587:android:714c1d2dbc7ad359",
+        "android_client_info": {
+          "package_name": "com.example.pradnya.dizappfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29064521587-k99987cibvmbomfhqnppbtsqh1rhkfqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrruOjn36LXQUqmN_eu9PXTRkag5U4km8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
